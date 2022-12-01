@@ -1,5 +1,8 @@
-pub fn add(left: usize, right: usize) -> usize {
-    left + right
+pub fn process_part1(input: &str) -> String {
+    "process_part1".to_string()
+}
+pub fn process_part2(input: &str) -> String {
+    "process_part2".to_string()
 }
 
 #[cfg(test)]
